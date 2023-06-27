@@ -1,6 +1,6 @@
 # 1Password + Passage + Hashnode Hackathon
 
-![repo cover image](https://github.com/100stacks/1password-passage-hashnode-hackathon/assets/10120600/a4609b2d-0793-4ce2-8149-9978863f0100)
+![image](https://github.com/100stacks/1password-passage-hashnode-hackathon/assets/10120600/4b6a3397-9edc-45e8-9763-93a2bfa157d1)
 
 I recently received an email about the [Hashnode + 1Password Hackathon](https://hashnode.com/hackathons/1password). I haven't entered a hackathon for a bit, so I figured this is a good time and it provided the impetus to start writing about modern software application development. And also...it's one of the requirements to enter the hackathon. 😅
 
