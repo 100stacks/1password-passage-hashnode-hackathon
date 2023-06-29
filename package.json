@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "See: https://builditdeploy.hashnode.dev/why-am-i-starting-on-hashnode-now-hackathon",
   "private": "true",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
