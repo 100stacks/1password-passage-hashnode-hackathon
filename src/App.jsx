@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import reactLogo from "./assets/react.svg";
 // eslint-disable-next-line import/no-unresolved
 import viteLogo from "/vite.svg";
+import passageLogo from "./assets/passage.svg";
 
 import Banner from "./components/Banner";
 import Dashboard from "./components/Dashboard";
@@ -15,6 +16,9 @@ function App() {
   return (
     <>
       <div>
+        <a href=" https://passage.id" target="_blank" rel="noreferrer">
+          <img src={passageLogo} className="logo react" alt="Passage" />
+        </a>
         <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -22,7 +26,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Passage + Vite + React</h1>
       <div className="card">
         <BrowserRouter>
           <Banner />
